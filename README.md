@@ -40,7 +40,6 @@ nmap -s, suricata не распознает ACK-сканирование как 
 
 ![screen](screenshots/1_sV.png)
 
-## Логи Fail2Ban
 
 ------
 
