@@ -20,19 +20,23 @@
 
 ### Решение
 
-nmap -s: suricata не распознает ACK-сканирование как угрозу, события не попали в лог:
+nmap -s, suricata не распознает ACK-сканирование как угрозу, события не попали в лог:
 
 ![screen](screenshots/1_sA.png)
 
 
- nmap -sT: suricata распознает TCP-сканирование и классифицирует его угрозу:
+ nmap -sT, suricata распознает TCP-сканирование и классифицирует его угрозу:
 
  ![screen](screenshots/1_sT.png)
 
 
- nmap -sS: suricata распознает SYN-сканирование и классифицирует его угрозу:
+ nmap -sS, suricata распознает SYN-сканирование и классифицирует его угрозу:
 
   ![screen](screenshots/1_sS.png)
+
+ nmap -sV, suricata распознает сканирование с определением версий и классифицирует его угрозу:
+
+![screen](screenshots/1_sV.png)
 
 ------
 
