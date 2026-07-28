@@ -77,6 +77,9 @@ nmap -s, suricata не распознает ACK-сканирование как 
 
 ![screen](screenshots/2_hydra_fail.png)
 
+Логи fail2ban:
+
+![screen](screenshots/2_log.png)
 
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
