@@ -73,6 +73,10 @@ nmap -s, suricata не распознает ACK-сканирование как 
 
 ![screen](screenshots/2_hydra.png)
 
+Подбор пароля к атакуемой ВМ с включенным fail2ban:
+
+![screen](screenshots/2_hydra_fail.png)
+
 
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
