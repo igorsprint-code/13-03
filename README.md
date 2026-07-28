@@ -24,6 +24,10 @@ nmap -s: suricata не распознает ACK-сканирование как 
 
 ![screen](screenshots/1_sA.png)
 
+
+ nmap -sT: suricata распознает TCP-сканирование и классифицирует его как "Potentially Bad Traffic":
+
+ ![screen](screenshots/1_sT.png)
 ------
 
 ### Задание 2
