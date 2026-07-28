@@ -22,7 +22,7 @@
 
 nmap -s: suricata не распознает ACK-сканирование как угрозу, события не попали в лог:
 
-![screen](screenshots/1_sA)
+![screen](screenshots/1_sA.png)
 
 ------
 
